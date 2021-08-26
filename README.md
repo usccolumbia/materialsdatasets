@@ -1,5 +1,8 @@
 # Materials datasets for ML
 
+Dr. Hu (University of South Carolina, Department of Computer Science and Engineering)\
+[Machine learning and Evolution Laboratory](http://mleg.cse.sc.edu)
+
 ### Database review papers
 - Machine Learning for Materials Scientists:An introductory guide towards best practices
 - Property-Oriented Material Design Based on Data-Driven Machine Learning Technique
