@@ -59,6 +59,16 @@ Database of Two-Dimensional Hybrid Perovskite Materials\
 
 property Net\
 
+MOF materials structures\
+https://mof-international.org/mof-structures/\
+[MOFDB northwestern](https://mof.tech.northwestern.edu/) 163000\
+[QMOF Database](https://github.com/arosen93/QMOF)
+
+Molecule datasets\
+[QM9](http://quantum-machine.org/datasets/)
+[Stanford Open graph challenge datasets](https://ogb.stanford.edu/docs/dataset_overview/)
+[ZINC](https://zinc.docking.org/) 
+
 
 https://github.com/blaiszik/Materials-Databases
 
