@@ -1,5 +1,13 @@
 # materials datasets for ML
 
+### Database review papers
+- Machine Learning for Materials Scientists:An introductory guide towards best practices
+- Property-Oriented Material Design Based on Data-Driven Machine Learning Technique
+- A Critical Review of Machine Learning of Energy Materials. ONG
+- A compact review of molecular property prediction with graph neural networks
+
+
+
 MaterialsProject database\
 https://materialsproject.org/
 
