@@ -9,13 +9,13 @@
 
 ### Datasets and Databases
 
-MaterialsProject database\
+MaterialsProject database (144,595+more)\
 https://materialsproject.org/
 
-Aflowlib dataset\
+Aflowlib dataset (3,541,633)\
 http://aflowlib.org
 
-OQMD dataset\
+OQMD dataset (815,654)\
 http://www.oqmd.org
 
 ICSD crystal materials dataset\
