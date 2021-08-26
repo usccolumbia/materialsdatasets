@@ -34,7 +34,33 @@ https://github.com/anthony-wang/CrabNet
 Scientific data journal datasets\
 https://www.nature.com/search?q=materials&journal=sdata&order=relevance
 
+2D materials databases\
+[C2DB](https://cmr.fysik.dtu.dk/c2db/c2db.html)
+
+Computational Materials Repository (CMR)\
+https://wiki.fysik.dtu.dk/cmr/index.html
+
+Thermal conductivity dataset\
+https://tedesignlab.org/database/ (2700 samples)
+
+
+
+Superconductor database\
+supercon\
+https://supercon.nims.go.jp/en/
+
+Topological insulator database\
+https://www.topologicalquantumchemistry.com/#/\
+https://www.materialscloud.org/discover/topomat  31000\
+
+
+Database of Two-Dimensional Hybrid Perovskite Materials\
+[2D Perovskites Database](http://pdb.nmse-lab.ru/)
+
 property Net\
+
+
+https://github.com/blaiszik/Materials-Databases
 
 
 JARVIS-dataset\
