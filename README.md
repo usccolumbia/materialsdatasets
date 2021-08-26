@@ -69,6 +69,16 @@ Molecule datasets\
 [Stanford Open graph challenge datasets](https://ogb.stanford.edu/docs/dataset_overview/)
 [ZINC](https://zinc.docking.org/) 
 
+Drug molecule database\
+[CHEMBL](https://www.ebi.ac.uk/chembl/) bioactive molecules with drug-like properties\
+
+Phonon and topological phonic materials\
+http://www.phonon.synl.ac.cn:8080/home\
+[zhuqiang: Topological Phononic Materials Database](https://tpdb.physics.unlv.edu/)
+
+
+
+
 
 https://github.com/blaiszik/Materials-Databases
 
