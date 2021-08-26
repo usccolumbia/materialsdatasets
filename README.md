@@ -1,10 +1,16 @@
 # materials datasets for ML
 
-MaterialsProject database
+MaterialsProject database\
+https://materialsproject.org/
 
-Aflowlib dataset
+Aflowlib dataset\
+http://aflowlib.org
 
-OQMD dataset
+OQMD dataset\
+http://www.oqmd.org
+
+Carolina Materials Database (Hypothetical new materials)\
+http://www.carolinamatdb.org/
 
 
 CGCNN benchmark datasets
