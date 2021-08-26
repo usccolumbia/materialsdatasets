@@ -1,5 +1,10 @@
 # materials datasets for ML
 
+CGCNN benchmark datasets
+
+Roost benchmark datasets
+
+
 5 datasets for structure based property prediction\
 MatBench: Benchmarking graph neural networks for materials chemistry\
 https://github.com/vxfung/MatDeepLearn
