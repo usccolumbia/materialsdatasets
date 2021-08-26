@@ -44,6 +44,9 @@ https://www.nature.com/search?q=materials&journal=sdata&order=relevance
 
 2D materials databases\
 [C2DB](https://cmr.fysik.dtu.dk/c2db/c2db.html)
+[2dmatpedia](http://www.2dmatpedia.org/)
+[V2DB-virtual 2d materials](https://www.amdlab.nl/software-data/v2db/)
+[2D semiconductor database](https://materialsdb.cn/2dsdb/index.html)
 
 Computational Materials Repository (CMR)\
 https://wiki.fysik.dtu.dk/cmr/index.html
