@@ -65,6 +65,9 @@ https://tedesignlab.org/database/ (2700 samples)
 materials synthesis data\
 https://github.com/CederGroupHub/text-mined-synthesis_public
 
+Lithium-Ion Battery Electrolyte (LIBE) dataset\
+[computed properties of over 17,000 molecules relevant to electrolyte and interphase chemistry](https://figshare.com/articles/dataset/Lithium-Ion_Battery_Electrolyte_LIBE_dataset/14226464)
+
 
 Superconductor database\
 supercon\
@@ -84,6 +87,9 @@ https://github.com/materialsintelligence/propnet
 
 Mendeley materials data\
 https://www.journals.elsevier.com/materials-science-and-engineering-a/mendeley-datasets
+
+Figshare public materials datasets\
+https://figshare.com/search?q=materials+dataset  or [sorted by hits](https://figshare.com/search?q=materials%20dataset&sortBy=relevant&sortType=desc)
 
 Materials data on data.world\
 https://data.world/datasets/materials
@@ -112,6 +118,9 @@ Phonon and topological phonic materials\
 http://www.phonon.synl.ac.cn:8080/home \ 
 [zhuqiang: Topological Phononic Materials Database](https://tpdb.physics.unlv.edu/)
 
+
+4,914 perovskite oxides\
+https://figshare.com/articles/dataset/Wolverton_Oxides_Data/7250417
 
 
 
