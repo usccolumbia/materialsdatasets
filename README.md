@@ -22,10 +22,11 @@ Carolina Materials Database (Hypothetical new materials)\
 http://www.carolinamatdb.org/
 
 
-CGCNN benchmark datasets
+CGCNN benchmark datasets (3). MP and perovskite\
+https://github.com/txie-93/cgcnn/tree/master/data/material-data
 
-Roost benchmark datasets
-
+Roost benchmark 4 datasets (composition only ML)\
+https://github.com/CompRhys/roost/tree/master/data/datasets
 
 5 datasets for structure based property prediction\
 MatBench: Benchmarking graph neural networks for materials chemistry\
@@ -36,7 +37,7 @@ https://hackingmaterials.lbl.gov/automatminer/datasets.html#down-loading-dataset
 Robust model benchmarking and bias-imbalance in data-driven materials science: a case study on MODNet
 
 
-28 datasets\
+28 datasets for composition only ML\
 https://github.com/kaaiian/mse_datasets
 https://github.com/anthony-wang/CrabNet
 
