@@ -109,6 +109,7 @@ https://github.com/blaiszik/Materials-Databases
 
 
 JARVIS-dataset\
+https://jarvis-materials-design.github.io/dbdocs/thedownloads/
 ```code
 JARVIS-DFT
 3D-materials curated data
