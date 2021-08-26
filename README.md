@@ -18,6 +18,9 @@ Robust model benchmarking and bias-imbalance in data-driven materials science: a
 https://github.com/kaaiian/mse_datasets
 https://github.com/anthony-wang/CrabNet
 
+Scientific data journal datasets\
+https://www.nature.com/search?q=materials&journal=sdata&order=relevance
+
 property Net\
 
 
