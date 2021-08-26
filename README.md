@@ -39,7 +39,7 @@ MatBench: Benchmarking graph neural networks for materials chemistry\
 https://github.com/vxfung/MatDeepLearn
 
 18 datasets for property prediction\
-https://hackingmaterials.lbl.gov/automatminer/datasets.html#down-loading-datasets\
+https://hackingmaterials.lbl.gov/automatminer/datasets.html#down-loading-datasets \
 Robust model benchmarking and bias-imbalance in data-driven materials science: a case study on MODNet
 
 
