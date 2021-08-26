@@ -1,5 +1,12 @@
 # materials datasets for ML
 
+MaterialsProject database
+
+Aflowlib dataset
+
+OQMD dataset
+
+
 CGCNN benchmark datasets
 
 Roost benchmark datasets
