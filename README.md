@@ -18,6 +18,9 @@ http://aflowlib.org
 OQMD dataset\
 http://www.oqmd.org
 
+ICSD crystal materials dataset\
+[242,828 crystals structures](https://icsd.products.fiz-karlsruhe.de/en/nachricht/icsd-now-contains-242828-crystal-structures)
+
 Carolina Materials Database (Hypothetical new materials)\
 http://www.carolinamatdb.org/
 
@@ -32,7 +35,7 @@ https://github.com/CompRhys/roost/tree/master/data/datasets
 MatBench: Benchmarking graph neural networks for materials chemistry\
 https://github.com/vxfung/MatDeepLearn
 
-18 datasets\
+18 datasets for property prediction\
 https://hackingmaterials.lbl.gov/automatminer/datasets.html#down-loading-datasets
 Robust model benchmarking and bias-imbalance in data-driven materials science: a case study on MODNet
 
