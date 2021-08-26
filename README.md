@@ -71,8 +71,8 @@ supercon\
 https://supercon.nims.go.jp/en/
 
 Topological insulator database\
-https://www.topologicalquantumchemistry.com/#/\
-https://www.materialscloud.org/discover/topomat  31000\
+https://www.topologicalquantumchemistry.com/#/ \
+https://www.materialscloud.org/discover/topomat  31000
 
 
 Database of Two-Dimensional Hybrid Perovskite Materials\
