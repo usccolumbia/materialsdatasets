@@ -5,7 +5,7 @@
 - Property-Oriented Material Design Based on Data-Driven Machine Learning Technique
 - A Critical Review of Machine Learning of Energy Materials. ONG
 - A compact review of molecular property prediction with graph neural networks
-
+- [Github:The Collection of Database and Dataset Resources in Materials Science](https://github.com/sedaoturak/data-resources-for-materials-science)
 
 
 MaterialsProject database\
@@ -51,6 +51,8 @@ https://wiki.fysik.dtu.dk/cmr/index.html
 Thermal conductivity dataset\
 https://tedesignlab.org/database/ (2700 samples)
 
+materials synthesis data\
+https://github.com/CederGroupHub/text-mined-synthesis_public
 
 
 Superconductor database\
@@ -66,6 +68,21 @@ Database of Two-Dimensional Hybrid Perovskite Materials\
 [2D Perovskites Database](http://pdb.nmse-lab.ru/)
 
 property Net\
+https://github.com/materialsintelligence/propnet
+
+
+Mendeley materials data\
+https://www.journals.elsevier.com/materials-science-and-engineering-a/mendeley-datasets
+
+Materials data on data.world\
+https://data.world/datasets/materials
+
+NIST Materials data facility\
+https://www.materialsdatafacility.org/
+
+Northwestern Center for Hierachical materials design\
+https://chimad.northwestern.edu/research/databases.html
+
 
 MOF materials structures\
 https://mof-international.org/mof-structures/\
