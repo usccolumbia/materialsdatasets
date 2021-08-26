@@ -1,4 +1,4 @@
-# materials datasets for ML
+# Materials datasets for ML
 
 ### Database review papers
 - Machine Learning for Materials Scientists:An introductory guide towards best practices
