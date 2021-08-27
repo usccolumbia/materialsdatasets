@@ -29,6 +29,8 @@ ICSD crystal materials dataset\
 Carolina Materials Database (Hypothetical new materials)\
 http://www.carolinamatdb.org/
 
+NREL materials database\
+https://materials.nrel.gov/queryStd
 
 CGCNN benchmark datasets (3). MP and perovskite\
 https://github.com/txie-93/cgcnn/tree/master/data/material-data
